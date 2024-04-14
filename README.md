@@ -24,34 +24,14 @@ The analysis led to several key insights, including:
 ## Repository Structure
 
 Save to grepper
-├── data
-│ └── education_zaf.csv # Dataset file
-├── analysis
-│ └── Education_Analysis.ipynb # Jupyter Notebook with the complete analysis
+└── education_zaf.csv # Dataset file
+└── M_Ngubeni_220121897.ipynb # Jupyter Notebook with the complete analysis
 └── README.md
-
-markdown
-Copy code
 
 ## Usage
 
-To run the Jupyter Notebook, ensure that you have Jupyter installed on your system, which is available as part of the Anaconda distribution or can be installed via pip. Then, navigate to the `analysis` directory and open the `Education_Analysis.ipynb` file.
-
-## Contributions
-
-Contributions to this analysis are welcome. You can contribute in several ways:
-
-1. **Data Expansion**: If you have access to more recent or historical data, consider contributing by expanding the dataset.
-2. **Further Analysis**: Additional analyses, such as predictive modelling or deeper statistical testing, could provide more insights.
-3. **Visualization Improvements**: Enhancements to the visualizations for better clarity and understanding are always valuable.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+To run the Jupyter Notebook, ensure that you have Jupyter installed on your system, which is available as part of the Anaconda distribution or can be installed via pip. Then, navigate to the directory and open the `M_Ngubeni_220121897b` file.
 
 ## Acknowledgments
 
 - Data sourced from [humdata.org](https://humdata.org/).
-- The repository maintainer(s) and contributors for their work in data cleaning and analysis.
